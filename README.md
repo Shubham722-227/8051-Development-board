@@ -20,14 +20,14 @@ Our 8051 Development Board provides a platform for prototyping and developing ap
 - Compact and durable design
 ## Schematic
 
-![Circuit](/image/circuit.png)
+![circuit](/image/circuit.png)
 
 ## PCB Layout
 
-![PCB Layout](/image/screen.png)
+![screen](/image/screen.png)
 
 ## 3D Model
-![3D Model](/image/final.jpeg)
+![final](/image/final.jpeg)
 
 ## Getting Started
 
